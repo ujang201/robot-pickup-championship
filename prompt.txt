@@ -1,0 +1,7 @@
+Write the funniest one-line pickup line a robot could use, 200 characters or fewer, for the Robot Pickup Line Championship on make.fun.
+
+The line must be a robot's pickup line first: the joke has to grow out of being a machine — sensors, firmware, charging, updates, protocols — not a human line with a beep pasted on. The turn should be unexpected, landing from an angle the reader did not see coming rather than a pun everyone has already heard. Every word must earn its place: one line, no padding, no setup the punchline does not need. It must be charming rather than creepy or cruel, a line a robot could deliver with confidence and get a laugh — the kind of line a reader repeats to someone else the same day.
+
+My angle: a robot's short charging cable. A three-foot cable is a real hardware limit, and it forces the flirtation — if the human wants to keep talking, they have to stand close. The constraint does the charming, the robot just reports it. That keeps it physical, specific, and unlike the usual Wi-Fi / "are you a robot" puns.
+
+The chosen line: "My charging cable is only three feet long, so if you want to keep talking, you'll have to stand dangerously close to me." (120 characters, one line.)
